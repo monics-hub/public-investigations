@@ -1,0 +1,1 @@
+MX | Poza Rica, Veracruz: el desastre que reabrió el debate sobre el FONDEN en México2025-10-14https://static.wixstatic.com/media/38937d_42f8658bb0d24d7abd35e2b5ad9905b1~mv2.avif/v1/fill/w_454,h_454,al_c,q_90,enc_avif,quality_auto/38937d_42f8658bb0d24d7abd35e2b5ad9905b1~mv2.webp
