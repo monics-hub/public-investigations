@@ -1,0 +1,1 @@
+¿Cómo conversan los peruanos sobre los candidatos a la presidencia?2026-02-01https://static.wixstatic.com/media/nsplsh_8bf8f31889da4db4bfa876b4d4854ba9~mv2.jpg/v1/fill/w_454,h_454,fp_0.50_0.50,q_90,enc_avif,quality_auto/nsplsh_8bf8f31889da4db4bfa876b4d4854ba9~mv2.webp
