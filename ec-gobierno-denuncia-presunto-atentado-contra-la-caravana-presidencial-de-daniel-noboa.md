@@ -1,0 +1,1 @@
+EC | Gobierno denuncia presunto atentado contra la caravana presidencial de Daniel Noboa2025-10-08https://static.wixstatic.com/media/38937d_016b81e6ace34625b97973c44e154ee2~mv2.jpeg/v1/fill/w_454,h_454,fp_0.50_0.50,q_90,enc_avif,quality_auto/38937d_016b81e6ace34625b97973c44e154ee2~mv2.webp
