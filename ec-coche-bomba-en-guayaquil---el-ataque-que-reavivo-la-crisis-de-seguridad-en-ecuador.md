@@ -1,0 +1,1 @@
+EC | Coche bomba en Guayaquil - el ataque que reavivó la crisis de seguridad en Ecuador2025-10-15https://static.wixstatic.com/media/38937d_482d7731cc3449c99d1e73ee08c13a03~mv2.jpg/v1/fill/w_454,h_454,fp_0.50_0.50,q_90,enc_avif,quality_auto/38937d_482d7731cc3449c99d1e73ee08c13a03~mv2.webp
