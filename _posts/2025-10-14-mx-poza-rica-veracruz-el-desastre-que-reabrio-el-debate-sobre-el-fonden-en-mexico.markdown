@@ -2,7 +2,7 @@
 layout: post
 title: MX | Poza Rica, Veracruz: el desastre que reabrió el debate sobre el FONDEN en México
 date: 2025-10-14
-description: Some post about MX | Poza Rica, Veracruz: el desastre que reabrió el debate sobre el FONDEN en México
+description: Some post about MX | Poza Rica, Veracruz el desastre que reabrió el debate sobre el FONDEN en México
 img: https://static.wixstatic.com/media/38937d_42f8658bb0d24d7abd35e2b5ad9905b1~mv2.avif/v1/fill/w_454,h_454,al_c,q_90,enc_avif,quality_auto/38937d_42f8658bb0d24d7abd35e2b5ad9905b1~mv2.webp
 ---
 El post contextualiza el desastre ocurrido en Poza Rica y cómo sus consecuencias visibles —daños a infraestructura, afectación a comunidades y crisis humanitaria local— volvieron a poner en el centro del debate público la eficacia del FONDEN como mecanismo de respuesta y reconstrucción. A partir de testimonios ciudadanos, reportes oficiales y cobertura mediática, se exploran las principales fallas percibidas: tiempos de respuesta, criterios de asignación de recursos y la brecha entre lo prometido y lo entregado sobre el terreno.
