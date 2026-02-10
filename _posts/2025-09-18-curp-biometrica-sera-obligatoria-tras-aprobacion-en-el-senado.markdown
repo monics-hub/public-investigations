@@ -1,0 +1,14 @@
+--- 
+layout: post 
+title: MX | CURP Biométrica será obligatoria tras aprobación en el Senado
+date: 2025-09-18
+description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
+img: https://static.wixstatic.com/media/38937d_89ba023283a745449c00b1aeaa31f7dc~mv2.jpeg
+--- 
+DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes y muestra que la aprobación del uso obligatorio de la CURP biométrica detonó una discusión intensa y polarizada. En las primeras 48 horas se registró un pico de menciones con hashtags a favor de la seguridad y otros enfocados en la privacidad; el sentimiento global se mantuvo dividido, con una inclinación negativa en usuarios jóvenes y más neutra o favorable en cuentas institucionales y medios tradicionales. Las palabras más frecuentes fueron “vigilancia”, “seguridad”, “privacidad”, “fraude” y “registro”, lo que evidencia tanto esperanzas en la mejora de servicios como temores sobre el uso indebido de datos.
+
+Geográficamente, la conversación mostró concentraciones en áreas urbanas y en estados con mayor acceso a trámites digitales; sin embargo, en regiones con brecha tecnológica emergieron discusiones sobre exclusión y dificultad de implementación. Los análisis demográficos indican que adultos mayores se preguntan por la logística y el acceso físico, mientras que jóvenes y activistas digitales se enfocan en la regulación, la interoperabilidad y la posibilidad de perfilado. Además detectamos narrativas de desinformación que asocian erróneamente la medida con entregas masivas de datos a empresas privadas—tendencias que evolucionan rápido y requieren monitorización continua.
+
+En términos de impacto, la obligatoriedad de una CURP biométrica podría agilizar procesos de verificación en salud, seguridad social y seguridad pública, pero también corre el riesgo de profundizar la exclusión de quienes no pueden acceder a registros biométricos por barreras tecnológicas o legales. Desde la óptica de gestión pública, la clave será garantizar interoperabilidad segura, protocolos claros para uso de datos y mecanismos de atención para casos especiales, evitando así que la medida genere cuellos de botella o rechazo social que frenen sus beneficios potenciales.
+
+Recomendamos a autoridades priorizar la transparencia en normas de protección de datos, establecer auditorías independientes y campañas informativas localizadas, además de implementar pilotos regionales y canales de queja accesibles. DINAMIC ofrece seguimiento en tiempo real para identificar focos de rechazo, medir la eficacia de mensajes institucionales y detectar desinformación emergente, aportando insumos para ajustar la implementación y la comunicación pública y así minimizar riesgos sociales y operativos.
