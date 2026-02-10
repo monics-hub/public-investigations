@@ -1,0 +1,14 @@
+--- 
+layout: post 
+title: MX | Donald Trump anuncia aranceles del 30% para México
+date: 2025-09-18
+description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de su más reciente análisis de...
+img: https://static.wixstatic.com/media/38937d_bf92965eb3aa4f00a76a41e4f704e37c~mv2.jpeg
+--- 
+DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de su más reciente análisis de las reacciones digitales al anuncio de aranceles por parte de la administración estadounidense. Usando IA que cruza contexto social, geográfico y discursivo, analizamos más de 3.2 millones de menciones en las primeras 72 horas posteriores al anuncio, identificando picos de conversación instantáneos y la propagación de narrativas clave a nivel transfronterizo.
+
+El sentimiento predominante fue negativo (aprox. 71%), con el resto dividido entre neutral (20%) y positivo (9%). Los temas más recurrentes fueron impacto económico y empleo, efectos sobre cadenas de suministro, respuestas gubernamentales y desinformación sobre cierres de fronteras. Geográficamente, la conversación se concentró en las entidades fronterizas y las grandes urbes (Ciudad de México, Monterrey, Tijuana), mientras que en EE. UU. los picos provinieron de estados con industrias exportadoras intensas; además detectamos ecos tempranos en foros empresariales y grupos sectoriales.
+
+En el plano discursivo surgieron tres marcos centrales: amenaza económica (énfasis en caída de exportaciones y pérdida de empleos), represalia política (llamados a medidas reciprocas y críticas a la diplomacia) y victimización migratoria (vinculación del impuesto con la política migratoria). Actores clave que impulsaron la conversación incluyeron cuentas oficiales gubernamentales, cámaras empresariales, líderes de opinión económicos y redes de activismo; también identificamos redes automatizadas amplificando mensajes polarizantes y varias piezas de desinformación que atribuyen efectos inmediatos mucho más severos de lo previsto.
+
+Recomendamos a tomadores de decisión y comunicadores: 1) despliegue inmediato de comunicación pública clara y datos sectoriales para desmentir rumores; 2) monitoreo geoespecífico y respuesta rápida en zonas con mayor riesgo de movilización social; 3) coordinación entre autoridades económicas y logísticas para mitigar impactos en cadenas de suministro; y 4) uso de campañas dirigidas para proteger la confianza de consumidores y exportadores. DINAMIC puede continuar entregando reportes en tiempo real y tableros geodiscursivos que apoyen la toma de decisiones durante las próximas semanas.
