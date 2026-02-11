@@ -4,7 +4,7 @@ title: MX | Incremento del 17% en las tarifas del transporte público en el Esta
 date: 2025-10-16
 description: 
 img: https://static.wixstatic.com/media/38937d_f071fb92d76a407f95e2b87349bb9741~mv2.webp
-pdf: 38937d_d75e9f212b8f43cbb211d88ce9df5ca0.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_d75e9f212b8f43cbb211d88ce9df5ca0.pdf
 --- 
 Un ajuste del 17% en las tarifas del transporte público tiene efectos inmediatos en el bolsillo de millones de personas: usuarios recurrentes, trabajadores informales y estudiantes verán aumentar su gasto diario, lo que puede traducirse en reducción del consumo en otros rubros o en la búsqueda de alternativas de movilidad. Además del impacto económico directo, este tipo de medidas suele agravar percepciones de inequidad si no se acompaña de medidas compensatorias para los sectores más vulnerables.
 
