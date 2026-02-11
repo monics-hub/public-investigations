@@ -4,7 +4,7 @@ title: MX | Javier Chicharito Hernández es sancionado tras declaraciones sobre 
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_b63037fb73bf4c7bbbd491642122711c~mv2.jpg
-pdf: 38937d_9be5e8e92b86469681d74c167f985d89.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_9be5e8e92b86469681d74c167f985d89.pdf
 --- 
 En los últimos días se generó un debate público luego de que Javier Hernández emitiera declaraciones sobre los roles de género que fueron percibidas por amplios sectores como regresivas y ofensivas. La respuesta institucional no tardó: su club y la federación anunciaron medidas disciplinarias que incluyen una sanción económica, la obligación de participar en talleres de sensibilización y la suspensión temporal de actividades promocionales. El caso ha abierto nuevamente la discusión sobre la responsabilidad pública de figuras deportivas y los límites entre opinión personal y conducta profesional.
 
