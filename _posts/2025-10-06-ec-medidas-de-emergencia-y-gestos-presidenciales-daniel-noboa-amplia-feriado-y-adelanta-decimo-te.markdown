@@ -4,7 +4,7 @@ title: EC | Medidas de emergencia y gestos presidenciales Daniel Noboa amplía f
 date: 2025-10-06
 description: Los recientes anuncios del presidente Daniel Noboa  —la extensión del feriado del 9 de octubre  y el adelanto del décimo tercer sueldo al...
 img: https://static.wixstatic.com/media/38937d_9aa653a7aa4a451c9a68eb04347d5432~mv2.avif
-pdf: 38937d_783a2b3ba1474337829ca9d7a0a74080.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_783a2b3ba1474337829ca9d7a0a74080.pdf
 --- 
 Los recientes anuncios del presidente Daniel Noboa  —la extensión del feriado del 9 de octubre  y el adelanto del décimo tercer sueldo al... muestran medidas de emergencia y gestos presidenciales con efectos tanto simbólicos como prácticos. A primera vista, la extensión del feriado busca reducir la tensión social y ofrecer un respiro temporal a la población, mientras que el adelanto del décimo tercer sueldo responde a la necesidad inmediata de liquidez de hogares y pequeñas empresas. Ambas iniciativas alivian demandas puntuales, pero su alcance dependerá de la claridad en la ejecución, los mecanismos de pago y la comunicación oficial sobre su financiamiento.
 
