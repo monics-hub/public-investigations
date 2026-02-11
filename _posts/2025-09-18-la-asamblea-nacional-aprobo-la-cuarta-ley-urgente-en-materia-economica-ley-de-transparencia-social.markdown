@@ -4,7 +4,7 @@ title: EC | La Asamblea Nacional aprobó la cuarta ley urgente en materia econó
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_4b781377941343babb4fb8c323ccf653~mv2.jpg
-pdf: 38937d_88f2158c9e5d493d83ed6b49e1c18573.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_88f2158c9e5d493d83ed6b49e1c18573.pdf
 --- 
 ono Esta nueva normativa aparece en un contexto de medidas económicas urgentes y tiene como eje la visibilidad de los recursos destinados a programas sociales. La ley plantea mecanismos para que el flujo de fondos, las contrataciones y los criterios de selección de beneficiarios sean publicados de forma clara y accesible, con plazos y formatos estandarizados. También incorpora obligaciones de reporte para entidades públicas y privadas que administren recursos sociales, buscando reducir opacidades que históricamente generan desconfianza ciudadana.
 
