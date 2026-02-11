@@ -4,7 +4,7 @@ title: MX | Detienen a 14 implicados en red de huachicol fiscal; Sheinbaum asegu
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_0322b4aa78ca4b09a37654b57ec9ae42~mv2.webp
-pdf: 38937d_c1fba735183e4e93aad83369ba05905d.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_c1fba735183e4e93aad83369ba05905d.pdf
 --- 
 Un operativo conjunto de autoridades federales y estatales logró desarticular una red dedicada al robo y comercialización ilícita de combustibles con impacto fiscal. La acción incluyó detenciones y aseguramientos de insumos, vehículos y bodegas, y se enmarca dentro de una estrategia sostenida para cortar la cadena logística que permite este tipo de delitos.
 
