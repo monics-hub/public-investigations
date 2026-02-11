@@ -4,7 +4,7 @@ title: MX | Adán Augusto López ignora alertas sobre vínculos criminales de su
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_c6bc72cb043742d5bb28fb8a3239b979~mv2.jpg
-pdf: 38937d_fdbf6674ba5a4156a86c9eb7251d89da.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_fdbf6674ba5a4156a86c9eb7251d89da.pdf
 --- 
 Durante las últimas semanas han circulado en redes sociales y foros locales alertas sobre supuestos vínculos del ex Secretario de Seguridad de Tabasco con grupos delictivos, alertas que según múltiples fuentes no habrían sido atendidas por el círculo cercano del ex gobernador tabasqueño ahora en el gabinete federal. El silencio institucional y la falta de respuestas oficiales alimentaron versiones contradictorias y un clima de incertidumbre sobre si existieron investigaciones internas previas o medidas de control que puedan explicar la omisión.
 
