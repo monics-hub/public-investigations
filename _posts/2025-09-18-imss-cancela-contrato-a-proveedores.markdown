@@ -4,7 +4,7 @@ title: MX | IMSS cancela contrato a proveedores
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/098760_92196135cb6d45d6835d21ffc5d12bee~mv2.webp
-pdf: 098760_ffe0ae4d4a3d448c9126598fd99d1333.pdf
+pdf: https://download-files.wixmp.com/ugd/098760_ffe0ae4d4a3d448c9126598fd99d1333.pdf
 --- 
 ono La medida anunciada afecta contratos clave del sector salud y apunta a problemas en cumplimiento contractual y transparencia. En la práctica, la rescisión se relaciona con incumplimientos en entregas, calidad de insumos o irregularidades administrativas detectadas por auditorías internas; las autoridades argumentan que es una acción para garantizar la continuidad del servicio y proteger recursos públicos mientras se relanzan procesos de contratación.
 
