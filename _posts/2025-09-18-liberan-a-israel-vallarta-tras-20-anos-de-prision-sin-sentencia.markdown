@@ -4,7 +4,7 @@ title: MX | Liberan a Israel Vallarta tras 20 años de prisión sin sentencia
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_02566a28ea99405d8c582bf419fd7b38~mv2.jpg
-pdf: 38937d_eec48f2ecce449ac94a552be39e21f37.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_eec48f2ecce449ac94a552be39e21f37.pdf
 --- 
 La noticia de la liberación de Israel Vallarta tras más de veinte años en detención abre una nueva conversación sobre las fallas procesales y los derechos humanos en el sistema de justicia penal. Casos como este ponen en evidencia la diferencia entre detención y sentencia firme, y cómo largos periodos de prisión preventiva impactan no solo a las personas involucradas sino a familias y comunidades enteras. La ausencia de una resolución judicial clara durante tanto tiempo alimenta reclamos de reparación y revisiones profundas de expedientes.
 
