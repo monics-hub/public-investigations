@@ -4,7 +4,7 @@ title: MX | Cámara de Diputados aprueba reforma a la Ley Aduanera
 date: 2025-10-08
 description: 
 img: https://static.wixstatic.com/media/38937d_e9418fe13c8d4572859e26cbcf809c28~mv2.jpg
-pdf: 38937d_36d8b45f839d4fbaaf0e790fdb45c951.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_36d8b45f839d4fbaaf0e790fdb45c951.pdf
 --- 
 La reciente reforma aduanera aprobada introduce cambios estructurales que buscan modernizar los procesos de comercio exterior: mayor digitalización de trámites, criterios de selección basados en riesgo, intercambio ampliado de información entre autoridades y sanciones más estrictas para prácticas fraudulentas. Estas medidas pretenden acelerar tiempos de despacho y fortalecer controles en fronteras, puertos y plataformas logísticas, al mismo tiempo que elevan los estándares de cumplimiento para agentes aduanales e importadores.
 
