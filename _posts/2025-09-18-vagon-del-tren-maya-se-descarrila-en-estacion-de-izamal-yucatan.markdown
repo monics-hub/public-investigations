@@ -4,7 +4,7 @@ title: MX | Vagón del Tren Maya se descarrila en estación de Izamal, Yucatán
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_7c00497371a84ab5a217f37a5966d2ac~mv2.jpeg
-pdf: 38937d_e7ad9596f53f4af6817d48d23f72c501.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_e7ad9596f53f4af6817d48d23f72c501.pdf
 --- 
 Un vagón del Tren Maya sufrió un descarrilamiento en la estación de Izamal; las primeras versiones indican que el incidente ocurrió durante operaciones de rutina y que los servicios fueron suspendidos temporalmente mientras equipos de emergencia y personal técnico atendían el lugar. Fuentes locales reportaron evacuación controlada de pasajeros, atención a algunos lesionados leves y la instalación de un perímetro para asegurar la zona y facilitar las labores de remoción y peritaje.
 
