@@ -4,7 +4,7 @@ title: EC | Daniel Noboa encabeza Marcha por la paz y la justicia en Guayaquil
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_df099f4ca1bc4bca8930f6edc2c065f7~mv2.webp
-pdf: 38937d_eb7ec6af0e3f4ade827c0d47ae7e6799.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_eb7ec6af0e3f4ade827c0d47ae7e6799.pdf
 --- 
 La movilización reunió a cientos de personas en las principales avenidas de Guayaquil, con familias, líderes comunitarios y agrupaciones sociales reclamando medidas urgentes contra la violencia y mayor eficacia en la justicia. La imagen de la marcha fue de unidad ciudadana: pancartas con nombres de víctimas, intervenciones emotivas y un llamado claro a que las instituciones recuperen la confianza pública. El recorrido, simbólico por zonas afectadas, buscó visibilizar tanto el impacto humano como la necesidad de respuestas concretas desde el Ejecutivo y los poderes locales.
 
