@@ -4,7 +4,7 @@ title: MX | La bandera mexicana se convierte en símbolo de protestas de migrant
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_de366c96f28e4e3dafda74837b4c9920~mv2.jpg
-pdf: 38937d_d6e4f2e4876b4ceb8c93bb5e8e5e58d4.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_d6e4f2e4876b4ceb8c93bb5e8e5e58d4.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes... y analiza cómo la bandera mexicana se ha transformado en un emblema central durante las protestas de migrantes en Los Ángeles. Los registros y publicaciones recientes reflejan una rápida viralización de imágenes y videos donde la enseña nacional funciona tanto como símbolo de identidad colectiva como herramienta de visibilización frente a la opinión pública estadounidense. La combinación de testimonios personales y símbolos visuales ha potenciado la narrativa de dignidad y pertenencia que atraviesa estas movilizaciones.
 
