@@ -4,7 +4,7 @@ title: MX | Claudia Sheinbaum celebra primer año de Gobierno en el Zócalo de C
 date: 2025-10-06
 description: 
 img: https://static.wixstatic.com/media/38937d_c0e08aa4e538462d84583dfb0fd4ecc8~mv2.webp
-pdf: 38937d_7c72108e55a8428e9f55b88a2e5f008d.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_7c72108e55a8428e9f55b88a2e5f008d.pdf
 --- 
 La plaza se llenó de una mezcla de celebración y ceremonia, con miles de asistentes congregados en el Zócalo entre consignas, música y banderas. El ambiente tuvo momentos festivos y otros de alto contenido político, con grupos de apoyo visibles y contramanifestaciones en los accesos. La logística y seguridad fueron un factor clave del evento, con corredores de acceso delimitados y presencia policial que buscó contener incidentes aislados, mientras vendedores ambulantes y actividades culturales complementaron la jornada.
 
