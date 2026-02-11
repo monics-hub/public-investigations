@@ -4,7 +4,7 @@ title: MX | Gentrificación el desafío para la sociedad mexicana
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_595518374add4bfca3337b1028359056~mv2.jpeg
-pdf: 38937d_9bff636bf28245afbd5a415ca67682a3.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_9bff636bf28245afbd5a415ca67682a3.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes sobre la gentrificación en México: las discusiones públicas reflejan una creciente preocupación por la pérdida de vivienda asequible, la salida de comercios tradicionales y la transformación del paisaje cultural de barrios históricos. En los últimos meses se ha visto un aumento en la visibilidad de relatos personales —desalojos, aumentos abruptos de renta y cambios en la oferta de servicios— que configuran una narrativa de emergencia urbana y falta de protección para residentes de larga data.
 
