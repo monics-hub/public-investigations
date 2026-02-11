@@ -4,7 +4,7 @@ title: MX | Fallece el Fiscal de la FGR en Tamaulipas tras explosión de su veh�
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_33212ef64c07495c905b6d0b947bb13e~mv2.jpg
-pdf: 38937d_a1a1fe36c5c84469930c1652288fb9a0.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_a1a1fe36c5c84469930c1652288fb9a0.pdf
 --- 
 ono En Reynosa se ha registrado un hecho que remueve las estructuras de seguridad y percepción pública: la explosión del vehículo que transportaba a un fiscal de la Fiscalía General de la República, con saldo de muerte confirmada. Los primeros reportes locales señalan que los servicios de emergencia acudieron al lugar y que las autoridades federales ya mantienen un operativo de investigación, pero aún persisten dudas sobre el origen del artefacto y las circunstancias exactas del ataque. Este tipo de sucesos no solo impactan a las instituciones encargadas de la procuración de justicia, sino también a la cotidianeidad de la población y la confianza en la seguridad institucional.
 
