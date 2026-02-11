@@ -4,7 +4,7 @@ title: MX | AICM suspende operaciones por lluvias históricas en CDMX
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_f603d0aacac14dfb8b75edf9b58408a3~mv2.jpg
-pdf: 38937d_0d2a7d15905344d1b06de81e4662ba0d.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_0d2a7d15905344d1b06de81e4662ba0d.pdf
 --- 
 Las intensas precipitaciones registradas en la capital provocaron inundaciones en pistas, calles de acceso y áreas perimetrales del aeropuerto principal, lo que obligó a la suspensión temporal de operaciones hasta que las condiciones de seguridad se restablezcan. Personal de la terminal y autoridades aeroportuarias activaron protocolos de emergencia para evacuar zonas afectadas y evaluar daños en infraestructura crítica.
 
