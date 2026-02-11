@@ -4,7 +4,7 @@ title: MX | Andy López Beltrán enfrenta cuestionamientos por sus gastos durant
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_ae300b0202604d52851e61a6e8073746~mv2.avif
-pdf: 38937d_7628377cee1b4461a95d29d9c5b22d16.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_7628377cee1b4461a95d29d9c5b22d16.pdf
 --- 
 Las imágenes y publicaciones sobre unas vacaciones en Tokio atribuidas a Andy López Beltrán han prendido una discusión pública sobre el origen y la magnitud de los gastos. Usuarios en redes compartieron fotos de restaurantes, alojamientos y compras que fueron interpretadas por muchos como ostentosas para un funcionario, lo que desató interrogantes sobre si esos consumos fueron cubiertos con fondos privados, recursos públicos o patrocinios. El episodio llegó a convertirse en tendencia y obligó a actores políticos y medios a pedir aclaraciones.
 
