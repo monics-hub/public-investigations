@@ -4,7 +4,7 @@ title: EC | Aumenta la tensión entre el Ejecutivo y la Corte Constitucional en 
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_5c481edc408f45129b34e55ee52a02db~mv2.jpg
-pdf: 38937d_fca11ad7843b457795d6ffbd2c88e498.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_fca11ad7843b457795d6ffbd2c88e498.pdf
 --- 
 La fractura que se aprecia entre el Ejecutivo y la máxima instancia constitucional parece haberse agudizado por decisiones y contradecisiones que tocan el núcleo de la interpretación de la Carta Magna: desde medidas excepcionales impulsadas por el Gobierno hasta resoluciones de la Corte que limitan o reinterpretan esas acciones. Este choque institucional se manifiesta no solo en la retórica política sino en movimientos concretos —apelaciones, solicitudes de aclaración, y pronunciamientos públicos— que muestran una tensión creciente sobre quién define los límites del poder en momentos de crisis.
 
