@@ -4,7 +4,7 @@ title: MX | México y Estados Unidos acuerdan combatir el crimen organizado
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_454f659a37d5440390db219b5d8c8073~mv2.jpg
-pdf: 38937d_3e960a79798d4f14a54f373faeb7bce6.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_3e960a79798d4f14a54f373faeb7bce6.pdf
 --- 
 El acuerdo bilateral representa una nueva fase en la cooperación entre ambos países para desarticular redes transnacionales que operan a ambos lados de la frontera. Más allá de las declaraciones públicas, se espera que incluya protocolos para intercambio de inteligencia, coordinación operativa y mecanismos legales para agilizar procesos de investigación y extradición. Esta articulación es clave para atacar cadenas de suministro, rutas de dinero y estructuras logísticas que sostienen al crimen organizado.
 
