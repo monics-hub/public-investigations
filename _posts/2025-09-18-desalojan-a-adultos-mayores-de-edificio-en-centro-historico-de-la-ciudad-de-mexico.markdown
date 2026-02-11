@@ -4,7 +4,7 @@ title: MX | Desalojan a adultos mayores de edificio en Centro histórico de la C
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_a603663b7b3a41ab8fa3059f8705aac7~mv2.avif
-pdf: 38937d_7eea6c46a6a8479cbf33795f25c10fb2.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_7eea6c46a6a8479cbf33795f25c10fb2.pdf
 --- 
 dicho texto, más algo más que yo genere.
 
