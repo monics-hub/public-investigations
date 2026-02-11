@@ -4,7 +4,7 @@ title: MX | Ximena Pichel, Lady Racista, es vinculada a proceso por discriminaci
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_bfe22757f95245a4b5e5330a2d158588~mv2.jpg
-pdf: 38937d_d2c8e442f02b4ae3987e43eca5925318.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_d2c8e442f02b4ae3987e43eca5925318.pdf
 --- 
 ono La grabación en la que la conocida figura pública agrede verbalmente a un agente de tránsito en la Ciudad de México se viralizó rápidamente, y la fiscalía determinó vincularla a proceso por el delito de discriminación. Las imágenes y audios compartidos en redes detonaron denuncias formales y un debate público inmediato, que no solo cuestiona la conducta individual sino también la respuesta institucional ante episodios de abuso verbal y racismo en espacios públicos.
 
