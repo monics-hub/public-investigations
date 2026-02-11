@@ -4,7 +4,7 @@ title: MX | Poza Rica, Veracruz el desastre que reabrió el debate sobre el FOND
 date: 2025-10-16
 description: 
 img: https://static.wixstatic.com/media/38937d_42f8658bb0d24d7abd35e2b5ad9905b1~mv2.avif
-pdf: 38937d_68a3ca7fd346438d97e7180ca9c551cf.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_68a3ca7fd346438d97e7180ca9c551cf.pdf
 --- 
 Un episodio de inundaciones y deslizamientos en Poza Rica dejó en evidencia, otra vez, las grietas del sistema nacional de protección civil: daños generalizados en infraestructura, interrupción de servicios y reportes de víctimas que pusieron en marcha una respuesta de emergencia insuficiente para las expectativas ciudadanas. La magnitud del impacto reabrió de inmediato el debate sobre el FONDEN: su rapidez de reacción, criterios de asignación y la necesaria articulación entre los órdenes de gobierno para convertir recursos en acción efectiva sobre el terreno. Más allá de la coyuntura, el evento puso en cuestión la capacidad del país para anticipar y financiar contingencias en un contexto de mayor recurrencia de fenómenos extremos.
 
