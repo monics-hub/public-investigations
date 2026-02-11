@@ -4,7 +4,7 @@ title: EC | Primeros 100 días del Presidente Daniel Noboa
 date: 2025-09-18
 description: Los primeros 100 días del presidente Daniel Noboa han estado marcados por un escenario dual por un lado, la persistencia de crisis...
 img: https://static.wixstatic.com/media/38937d_207d39b9690a4952847c42cdf41d9fbb~mv2.avif
-pdf: 38937d_d0cf7325309a4af3a3156181f676113a.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_d0cf7325309a4af3a3156181f676113a.pdf
 --- 
 Los primeros 100 días del presidente Daniel Noboa han estado marcados por un escenario dual por un lado, la persistencia de crisis que heredó el país —seguridad, economía y fracturas institucionales— y por otro, la puesta en marcha de medidas de gestión orientadas a mostrar capacidad de reacción y resultados rápidos. En este periodo se observan señales mixtas: acciones ejecutivas y comunicacionales diseñadas para recuperar la confianza ciudadana, junto a limitaciones prácticas para traducir anuncios en mejoras sostenibles. El equilibrio entre medidas de emergencia y políticas de mediano plazo es, hasta ahora, el hilo conductor de la primera etapa de su gobierno.
 
