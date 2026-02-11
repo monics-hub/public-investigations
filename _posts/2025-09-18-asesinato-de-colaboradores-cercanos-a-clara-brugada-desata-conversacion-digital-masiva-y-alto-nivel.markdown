@@ -4,7 +4,7 @@ title: MX | Donald Trump anuncia aranceles del 30% para México
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de su más reciente análisis de...
 img: https://static.wixstatic.com/media/38937d_bf92965eb3aa4f00a76a41e4f704e37c~mv2.jpeg
-pdf: 38937d_ca8c574c6ecc4c1ab63b5deb79adbf0f.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_ca8c574c6ecc4c1ab63b5deb79adbf0f.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de su más reciente análisis de la conversación pública generada tras la medida arancelaria anunciada por la administración estadounidense. En las primeras 48 horas observamos picos de interacción que doblaron el volumen habitual en temas bilaterales: Twitter y TikTok concentraron el debate inmediato, mientras que Facebook y espacios de noticias acumularon discusiones más largas y analíticas. La intensidad del ruido mediático estuvo acompañada por un aumento en búsquedas de términos económicos y logísticos, lo que refleja la urgencia informativa entre ciudadanía, empresas y medios.
 
