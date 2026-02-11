@@ -4,7 +4,7 @@ title: MX | CURP Biométrica será obligatoria tras aprobación en el Senado
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_89ba023283a745449c00b1aeaa31f7dc~mv2.jpeg
-pdf: 38937d_4fc20415e78c4ca4a5ada983a85c0637.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_4fc20415e78c4ca4a5ada983a85c0637.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes: la aprobación en el Senado de la CURP biométrica detonó una conversación inmediata y polarizada. Una parte importante del público celebra la promesa de mayor seguridad y eficiencia en trámites, mientras que otra clama por salvaguardas y protestas contra posibles vulneraciones de la privacidad. Los hashtags relacionados se mantuvieron entre los más comentados durante las primeras 24–48 horas, con picos de interacción provenientes tanto de organizaciones civiles como de cuentas vinculadas a servicios públicos y tecnología.
 
