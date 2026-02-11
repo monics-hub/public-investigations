@@ -4,7 +4,7 @@ title: MX | Explosión de pipa en Iztapalapa revela irregularidades Gas Silla op
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_73d0489e18b04eaabb603f5329e344dd~mv2.avif
-pdf: 38937d_1447c36eaf2b4715a961e542bc282561.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_1447c36eaf2b4715a961e542bc282561.pdf
 --- 
 En caso de que  ono sea vacíos, la explosión de una pipa en Iztapalapa puso de manifiesto fallas graves en la operación de la empresa responsable, que según investigaciones preliminares operaba sin seguro vigente. El estallido generó daños materiales en viviendas y vehículos cercanos y provocó una movilización de emergencia que expuso la vulnerabilidad de las rutas de transporte de combustible en zonas densamente pobladas.
 
