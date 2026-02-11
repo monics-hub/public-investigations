@@ -4,7 +4,7 @@ title: MX | Primer año de gobierno de Claudia Sheinbaum
 date: 2025-09-18
 description: En un escenario donde la opinión pública se expresa principalmente en plataformas digitales, este informe presenta una evaluación de las...
 img: https://static.wixstatic.com/media/38937d_082eeed5894140c5a30955aaaf9d4179~mv2.jpg
-pdf: 38937d_c78d76a2dea843228a150428bf7f2ea5.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_c78d76a2dea843228a150428bf7f2ea5.pdf
 --- 
 En un escenario donde la opinión pública se expresa principalmente en plataformas digitales, este informe presenta una evaluación de las conversaciones en torno al primer año de gobierno de Claudia Sheinbaum, identificando los temas, actores y narrativas que han marcado la agenda pública y las variaciones territoriales y temporales del sentir ciudadano. A partir de millones de menciones públicas y señales sociales, la lectura pone énfasis en los hitos comunicacionales y en cómo decisiones de política pública se tradujeron en picos de atención y cambios de tono en redes.
 
