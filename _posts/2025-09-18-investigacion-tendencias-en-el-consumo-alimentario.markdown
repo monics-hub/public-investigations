@@ -4,7 +4,7 @@ title: MX | Investigación | Tendencias en el consumo alimentario
 date: 2025-09-18
 description: En un contexto donde los hábitos alimentarios están profundamente influenciados por discursos digitales, este informe ofrece una mirada...
 img: https://static.wixstatic.com/media/098760_1d11c862017f41de8b570430adb90d1a~mv2.png
-pdf: 38937d_e969e28eda33478c8dbe14a8b450ca82.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_e969e28eda33478c8dbe14a8b450ca82.pdf
 --- 
 En un contexto donde los hábitos alimentarios están profundamente influenciados por discursos digitales, este informe ofrece una mirada a cómo las conversaciones en redes están reconfigurando decisiones de compra, preferencias culinarias y percepciones de salud. A partir de un muestreo amplio de plataformas públicas y foros locales, DINAMIC identifica las narrativas predominantes—desde la popularización de dietas funcionales hasta la desconfianza hacia ingredientes procesados—y cómo estas se despliegan según contextos sociales y geográficos. El análisis pone especial énfasis en las redes de influencia: microinfluencers que crean comunidades hiperlocales, líderes de opinión regionales y la velocidad con la que emergen y se transforman mitos alimentarios.
 
