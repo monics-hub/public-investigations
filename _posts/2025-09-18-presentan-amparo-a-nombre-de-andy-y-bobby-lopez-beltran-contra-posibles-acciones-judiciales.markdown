@@ -4,7 +4,7 @@ title: MX | Presentan amparo a nombre de Andy y Bobby López Beltrán contra pos
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_946d69a7edf54b72b125a0d4660066c1~mv2.avif
-pdf: 38937d_9f399f7db6334099ad98af4a50e81daa.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_9f399f7db6334099ad98af4a50e81daa.pdf
 --- 
 La presentación de un amparo a nombre de Andy y Bobby López Beltrán funciona hoy como una medida preventiva destinada a frenar o diluir el impacto de posibles acciones judiciales en su contra. Este recurso no solo busca bloquear actuaciones concretas, sino también asegurar el cumplimiento de garantías procesales y evitar decisiones apresuradas que puedan vulnerar derechos. En términos legales, es una señal de que la defensa opta por anticipar movimientos del Ministerio Público o de otras autoridades antes de que se concreten diligencias que podrían ser difíciles de revertir.
 
