@@ -4,7 +4,7 @@ title: MX | Conversación sobre Ley de Telecomunicaciones
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/098760_6e9e5ec0160044a6a316931b052908a2~mv2.jpg
-pdf: 098760_88970b55adef46bda2c7aa908e2ce95a.pdf
+pdf: https://download-files.wixmp.com/ugd/098760_88970b55adef46bda2c7aa908e2ce95a.pdf
 --- 
 En las últimas semanas la discusión pública se ha centrado en cómo equilibrar la necesidad de inversión en infraestructura con la garantía de acceso universal y precios justos. Los debates en redes muestran una mezcla de apoyo a medidas que prometen llevar banda ancha a zonas rurales y desconfianza hacia disposiciones que podrían reforzar oligopolios. Temas técnicos como asignación de espectro, regulación de tarifas y protección del consumidor aparecen recurrentemente, junto a narrativas sobre competencia, innovación y soberanía digital.
 
