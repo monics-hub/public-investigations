@@ -4,7 +4,7 @@ title: MX | Usuarios de Uber y Didi reportan cobros adicionales por ajuste de le
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_821d89318e594b2b90d9aed2174cb56c~mv2.jpg
-pdf: 38937d_55413dee0b324716a3b22ded21f98c14.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_55413dee0b324716a3b22ded21f98c14.pdf
 --- 
 Desde primeras horas se han multiplicado las denuncias en redes sociales y grupos de mensajería sobre cobros extra en viajes contratados por aplicaciones. Usuarios comparten capturas con conceptos que aparecen como “ajuste por ley laboral” o “contribución por cumplimiento”, y describen incrementos que van desde unos pocos pesos hasta porcentajes añadidos a la tarifa final. La narrativa común apunta a que, tras una reciente modificación normativa que obliga a las plataformas a incorporar nuevas cargas laborales o prestaciones para conductores, las empresas estarían trasladando parte del costo a los pasajeros.
 
