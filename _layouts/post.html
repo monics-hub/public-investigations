@@ -5,18 +5,25 @@ layout: main
   <div class="page-content">
     {% if page.img %}
     <div class="page-cover-image">
-      <figure> <!-- Remove prepend/append, just use page.img --> 
-        <img class="page-image" src="{{ page.img }}" alt="{{ page.title }}"> </img>
+      <figure style="margin: 0; padding: 0;"> <!-- Remove prepend/append, just use page.img --> 
+        <img class="page-image" src="{{ page.img }}" alt="{{ page.title }}" style="width: 100%; height: auto; display: block; max-width: 100%;"> </img>
       </figure>
     </div> <!-- End Page Cover Image -->
     {% else %}
     {% endif %}
-    <div class="wrap-content">
+    <div class="wrap-content" style="padding: 1rem;">
       <header class="header-page">
-        <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <h1 class="page-title" style="font-size: clamp(1.5rem, 5vw, 2.5rem); margin: 0.5rem 0;">{{page.title}}</h1>
+        <div class="page-date"><span style="font-size: clamp(0.875rem, 2vw, 1rem);">{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
-      {{content | markdownify}}
+      <div style="line-height: 1.6; word-wrap: break-word; overflow-wrap: break-word;">
+        {{content | markdownify}}
+      </div>
+      {% if page.pdf %}
+        <div style="margin-top: 2rem; width: 100%; overflow-x: auto;">
+          {% include pdfviewer.html pdf=page.pdf %}
+        </div>
+      {% endif %}
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
