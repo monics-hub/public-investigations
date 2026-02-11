@@ -4,7 +4,7 @@ title: ¿Cómo conversan los peruanos sobre los candidatos a la presidencia?
 date: 2026-02-01
 description: No solo es importante saber en qué lugar se encuentran en la agenda pública, sino también cómo conversan los peruanos en redes sociales. Compartimos un análisis que nos permite entender qué puede hacer crecer a un candidato y cuál podría ser su talón de Aquiles. Una mirada distinta que ayuda a comprender hacia dónde se dirige la opinión pública.
 img: https://static.wixstatic.com/media/nsplsh_8bf8f31889da4db4bfa876b4d4854ba9~mv2.jpg
-pdf: 098760_2ec91e59aeae4c409b2f6f5c62e572a9.pdf
+pdf: https://download-files.wixmp.com/ugd/098760_2ec91e59aeae4c409b2f6f5c62e572a9.pdf
 --- 
 No solo es importante saber en qué lugar se encuentran en la agenda pública, sino también cómo conversan los peruanos en redes sociales. Compartimos un análisis que nos permite entender qué puede hacer crecer a un candidato y cuál podría ser su talón de Aquiles. Una mirada distinta que ayuda a comprender hacia dónde se dirige la opinión pública. A partir de la escucha social, observamos no solo las menciones y el volumen, sino las formas discursivas: metáforas recurrentes, tonos emocionales, formatos preferidos (videos cortos, memes, hilos) y los momentos en que una narrativa logra instalarse en la conversación pública.
 
