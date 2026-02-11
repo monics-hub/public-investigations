@@ -6,9 +6,14 @@
   <span id="page-info" style="font-size: clamp(0.875rem, 2vw, 1rem);">Page: <span id="page_num"></span> / <span id="page_count"></span></span>
 </div>
 
+<!-- Nuevo botón para abrir el PDF -->
+<div id="pdf-open" style="margin-top: 1rem;">
+  <button id="open-pdf" class="pdf-button">VER REPORTE PDF</button>
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
 <script>
-  const url = '{{ include.pdf }}'; // PDF URL passed from page front matter
+  const url = '{{ include.pdf }}'; // PDF URL pasada desde el front matter
 
   let pdfDoc = null,
       pageNum = 1,
@@ -39,23 +44,23 @@
       getScaleToFitContainer().then(function(calculatedScale) {
         scale = calculatedScale;
         const viewport = page.getViewport({scale: scale});
-      canvas.height = viewport.height;
-      canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
 
-      const renderContext = {
-        canvasContext: ctx,
-        viewport: viewport
-      };
-      const renderTask = page.render(renderContext);
+        const renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        const renderTask = page.render(renderContext);
 
-      renderTask.promise.then(function() {
-        pageRendering = false;
-        document.getElementById('page_num').textContent = num;
-        if (pageNumPending !== null) {
-          renderPage(pageNumPending);
-          pageNumPending = null;
-        }
-      });
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          document.getElementById('page_num').textContent = num;
+          if (pageNumPending !== null) {
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
       });
     });
   }
@@ -83,13 +88,18 @@
   document.getElementById('prev').addEventListener('click', onPrevPage);
   document.getElementById('next').addEventListener('click', onNextPage);
 
+  // Nuevo evento para abrir el PDF en otra pestaña
+  document.getElementById('open-pdf').addEventListener('click', function() {
+    window.open(url, '_blank');
+  });
+
   pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
     pdfDoc = pdfDoc_;
     document.getElementById('page_count').textContent = pdfDoc.numPages;
     renderPage(pageNum);
   });
 
-  // Recalculate scale on window resize for responsiveness
+  // Recalcular escala al cambiar tamaño de ventana
   window.addEventListener('resize', function() {
     if (pdfDoc && !pageRendering) {
       queueRenderPage(pageNum);
