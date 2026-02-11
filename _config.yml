@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   De clic en el primer post para conocer más.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://public-investigations.vercel.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
