@@ -4,7 +4,7 @@ title: EC | Riesgos estructurales reactivan la alerta de apagones en Ecuador
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_d1aa77c1fc0d43dfb83431cda09af202~mv2.jpeg
-pdf: 38937d_4522f757f9b84eab9f2cd60fbebff202.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_4522f757f9b84eab9f2cd60fbebff202.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes: en las últimas semanas se registra un aumento sostenido de menciones relacionadas con cortes de energía y fallas en la infraestructura eléctrica, con picos de conversación en provincias urbanas y rurales que coinciden con reportes de sobrecarga y trabajos de mantenimiento anunciados. El análisis de sentimiento muestra predominancia de preocupación y exigencia de respuestas inmediatas por parte de autoridades y empresas eléctricas, mientras que emergen hashtags que agrupan denuncias ciudadanas y pedidos de información clara sobre la continuidad del suministro.
 
