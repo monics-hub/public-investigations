@@ -4,7 +4,7 @@ title: MX | Claudia Sheinbaum reitera principio de austeridad tras viaje de Andy
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_6481e10983cc4375819e5f5b728c2c77~mv2.jpg
-pdf: 38937d_d6372cfc6ff248c6a0d191dc55507dfd.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_d6372cfc6ff248c6a0d191dc55507dfd.pdf
 --- 
 La reiteración del principio de austeridad por parte de la mandataria llega en un momento de sensibilidad pública sobre el uso de recursos públicos, tras la gira de un funcionario cercano que generó reacciones encontradas. La explicación oficial apunta a que los viajes internacionales buscan atraer inversión y fortalecer la cooperación tecnológica, pero para amplios sectores la imagen de desplazamientos oficiales contrasta con el discurso de contención del gasto.
 
