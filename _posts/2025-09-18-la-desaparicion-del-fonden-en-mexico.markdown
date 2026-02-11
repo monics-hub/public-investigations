@@ -4,7 +4,7 @@ title: MX | La desaparición del FONDEN en México
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_96fc550dda554ba2865303783ac1f935~mv2.jpeg
-pdf: 38937d_26e5f8a8bf2d4ce38d7a559502937f80.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_26e5f8a8bf2d4ce38d7a559502937f80.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes... y ofrece una lectura sintética de cómo la desaparición del FONDEN ha permeado el debate público digital. Durante las semanas posteriores al anuncio, las plataformas se convirtieron en un termómetro inmediato de preocupaciones ciudadanas: predominan la incertidumbre sobre la atención a emergencias, la exigencia de transparencia y la búsqueda de alternativas institucionales. Las menciones se multiplicaron en picos asociados a movimientos sociales, declaraciones de autoridades y eventos climáticos adversos, configurando una narrativa cargada de urgencia.
 
