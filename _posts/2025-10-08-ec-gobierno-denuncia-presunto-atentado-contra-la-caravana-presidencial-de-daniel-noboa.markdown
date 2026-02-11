@@ -4,7 +4,7 @@ title: EC | Gobierno denuncia presunto atentado contra la caravana presidencial 
 date: 2025-10-08
 description: 
 img: https://static.wixstatic.com/media/38937d_016b81e6ace34625b97973c44e154ee2~mv2.jpeg
-pdf: 38937d_1bc5275ad4d946128ceb37c07fbfa287.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_1bc5275ad4d946128ceb37c07fbfa287.pdf
 --- 
 El Gobierno difundió la denuncia sobre un presunto ataque contra la comitiva presidencial, lo que provocó una respuesta inmediata de las fuerzas de seguridad y la apertura de una investigación. Aunque todavía escasean detalles oficiales confirmados, fuentes indican que se activaron protocolos de protección y se recabaron pruebas en la ruta donde ocurrió el incidente. La prioridad en las primeras horas fue garantizar la integridad del mandatario y su equipo, además de establecer un perímetro seguro y recopilar registro audiovisual y testimonios.
 
