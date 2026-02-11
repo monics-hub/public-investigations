@@ -4,7 +4,7 @@ title: EC | Asamblea Nacional aprueba con 81 votos eliminar financiamiento estat
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_8bc4a763662a4586959db0718d577e04~mv2.png
-pdf: 38937d_7515eda98a8c46c881835f07aa35fa43.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_7515eda98a8c46c881835f07aa35fa43.pdf
 --- 
 ono Esta decisión plantea un giro profundo en la manera en que se financia la política. Al eliminar el financiamiento estatal para partidos y campañas, muchas organizaciones políticas verán reducido su acceso a recursos estables, lo que obligará a una reconfiguración rápida de estructuras, prioridades y tácticas para la contienda de 2025. Los efectos inmediatos probablemente incluyan recortes en personal, menor capacidad de movilización tradicional y una mayor dependencia de recaudación privada y donaciones puntuales.
 
