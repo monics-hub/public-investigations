@@ -4,7 +4,7 @@ title: MX | Proponen impuesto del 8% a videojuegos violentos - Paquete económic
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_f300b46cff00431c83a0587b871d0167~mv2.avif
-pdf: 38937d_972e6b266c19492cbd948a81bd7ae95b.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_972e6b266c19492cbd948a81bd7ae95b.pdf
 --- 
 La iniciativa que plantea gravar con un porcentaje fijo los videojuegos catalogados como violentos busca, según sus promotores, desincentivar su consumo y generar ingresos para programas sociales. En la práctica, esa medida abriría un debate sobre cómo se define “violencia” en el entretenimiento interactivo y sobre la capacidad del Estado para regular contenidos culturales sin afectar la oferta legal y la libertad de expresión. También estaría en el centro la discusión sobre el destinatario real del impuesto: consumidores finales, plataformas digitales o distribuidores.
 
