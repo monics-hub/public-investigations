@@ -4,7 +4,7 @@ title: EC | Capturan a alias Fito, líder de la banda Los Choneros
 date: 2025-09-18
 description: DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones sobre la...
 img: https://static.wixstatic.com/media/38937d_81bd3e78fd4a4099ac6c5314c2bf25b6~mv2.jpeg
-pdf: 38937d_57b2ac3e78a54463b8a8483716a9f308.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_57b2ac3e78a54463b8a8483716a9f308.pdf
 --- 
 DINAMIC , el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones sobre la detención que disparó el debate público esta semana en Ecuador. Nuestro análisis muestra un aumento inmediato y sostenido del volumen de menciones en múltiples plataformas, donde conviven relatos de alivio ciudadano, preocupación por represalias y una intensa búsqueda de información verificada. Los contenidos más virales fueron videos en formatos cortos, capturas de chats y declaraciones de actores institucionales, que marcaron la agenda digital en las primeras 48 horas.
 
