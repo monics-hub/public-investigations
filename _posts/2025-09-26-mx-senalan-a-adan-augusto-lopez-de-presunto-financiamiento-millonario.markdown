@@ -4,7 +4,7 @@ title: MX | Señalan a Adán Augusto López de presunto financiamiento millonari
 date: 2025-09-26
 description: 
 img: https://static.wixstatic.com/media/38937d_3979fc12d2d2498e98520f685ddc89e2~mv2.jpg
-pdf: 38937d_736f4f304dbf4eb58b7f75ef658bdcbc.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_736f4f304dbf4eb58b7f75ef658bdcbc.pdf
 --- 
 Las redes sociales se han convertido en el altavoz inmediato de denuncias y señalamientos, y en este caso las conversaciones apuntan a un presunto financiamiento millonario vinculado a Adán Augusto López. Aunque la naturaleza de las acusaciones sigue siendo presuntiva y objeto de verificación por las autoridades correspondientes, el volumen y la rapidez con la que se ha difundido la información muestran cómo un episodio así puede escalar en pocas horas y polarizar agendas públicas y privadas. Los hashtags y menciones relacionadas están alimentando tanto la difusión de la denuncia como las reacciones defensivas y las campañas de desacreditación entre distintos grupos.
 
