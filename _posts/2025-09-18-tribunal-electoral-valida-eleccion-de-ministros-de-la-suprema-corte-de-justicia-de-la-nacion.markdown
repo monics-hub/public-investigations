@@ -4,7 +4,7 @@ title: MX | Tribunal Electoral valida elección de ministros de la Suprema Corte
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_0f995b0fb2394861b94e35e84479cb2f~mv2.jpg
-pdf: 38937d_3316a7458d7a407287f5443310472346.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_3316a7458d7a407287f5443310472346.pdf
 --- 
 La resolución reciente de la autoridad electoral que confirma los nombramientos para la Suprema Corte marca el cierre de un capítulo jurídico que había mantenido en vilo tanto al Poder Judicial como a actores políticos y a la ciudadanía. Más allá del efecto inmediato —la toma de protesta de quienes asumirán el cargo—, la decisión redefine el equilibrio interno de la Corte y las expectativas sobre cómo se abordarán asuntos sensibles en materias constitucionales y electorales durante los próximos años.
 
