@@ -4,7 +4,7 @@ title: MX | Gobierno exhibe a empresas que incumplen con abasto de medicamentos 
 date: 2025-09-25
 description: 
 img: https://static.wixstatic.com/media/38937d_0ccc60da83d0406bb985226c0314efe2~mv2.png
-pdf: 38937d_52eaa178594041bc8fa23b978966ad0d.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_52eaa178594041bc8fa23b978966ad0d.pdf
 --- 
 La publicación pública de empresas señaladas por no cumplir con el abasto ha vuelto a poner sobre la mesa la fragilidad de las cadenas de suministro en salud y el costo humano de las demoras. Clínicas y pacientes han reportado faltantes en insumos críticos y medicamentos esenciales, lo que genera preocupaciones inmediatas sobre la continuidad de tratamientos y la capacidad de respuesta del sistema sanitario en estados y regiones más vulnerables.
 
