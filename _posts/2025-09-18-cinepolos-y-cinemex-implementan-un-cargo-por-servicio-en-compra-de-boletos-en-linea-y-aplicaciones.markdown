@@ -4,7 +4,7 @@ title: MX | Cinépolos y Cinemex implementan un cargo por servicio en compra de 
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_335a1d8dada246f0b38169c3f3309752~mv2.jpg
-pdf: 38937d_93476c7eab5c4d24931867f010eed5ef.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_93476c7eab5c4d24931867f010eed5ef.pdf
 --- 
 La decisión de aplicar un cargo por servicio en las compras de boletos por internet y en aplicaciones móviles cambia la experiencia de quienes van al cine: lo que para las cadenas es una forma de recuperar costos de procesamiento y mantener plataformas digitales, para muchos clientes se siente como un recargo inesperado que encarece una transacción que antes percibían como sencilla. Este ajuste puede afectar tanto la conversión en línea como la percepción de valor del servicio, especialmente entre usuarios frecuentes y familias que compran múltiples boletos.
 
