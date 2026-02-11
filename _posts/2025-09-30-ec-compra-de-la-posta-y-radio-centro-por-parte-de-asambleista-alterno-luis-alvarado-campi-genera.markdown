@@ -4,7 +4,7 @@ title: EC | Compra de La Posta y Radio Centro por parte de asambleísta alterno,
 date: 2025-09-30
 description: 
 img: https://static.wixstatic.com/media/38937d_b187b544a6a5421099359c85f597ca15~mv2.webp
-pdf: 38937d_b9bdfce12e624f7eb8f3eb3dbad14ef1.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_b9bdfce12e624f7eb8f3eb3dbad14ef1.pdf
 --- 
 ono sea vacíos. La reciente adquisición de una publicación y una emisora locales por parte de un asambleísta alterno ha encendido un debate sobre transparencia y concentración mediática. Más allá del hecho transaccional, lo que interesa al público son las implicaciones políticas y éticas: ¿se mantendrá la independencia editorial?, ¿existe algún conflicto de interés que deba investigarse?, y cómo afectará esto la pluralidad informativa en las regiones donde operan esos medios.
 
