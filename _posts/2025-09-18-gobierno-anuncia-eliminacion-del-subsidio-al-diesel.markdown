@@ -4,7 +4,7 @@ title: EC | Gobierno anuncia eliminación del subsidio al diésel
 date: 2025-09-18
 description: El anuncio del Gobierno de Daniel Noboa sobre la eliminación del subsidio al diésel desató una intensa reacción ciudadana en el espacio...
 img: https://static.wixstatic.com/media/38937d_41c65ccb3c8f4a9ba15dd4e929db747a~mv2.jpeg
-pdf: 38937d_a8b6c556f8ec41c889125ac19a74c597.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_a8b6c556f8ec41c889125ac19a74c597.pdf
 --- 
 El anuncio del Gobierno de Daniel Noboa sobre la eliminación del subsidio al diésel desató una intensa reacción ciudadana en el espacio... las conversaciones en redes sociales mostraron de inmediato picos de indignación y preocupación, con énfasis en el impacto económico sobre el transporte de carga, pescadores artesanales y agricultores. En los primeros minutos surgieron hashtags que convocaban a protestas y a la difusión de experiencias personales sobre aumentos en costos de vida; al mismo tiempo se detectaron narrativas de apoyo que argumentaban la necesidad fiscal de la medida. Desde una perspectiva discursiva, el debate se polarizó entre quienes demandan medidas compensatorias y quienes exigen mayor transparencia en la gestión pública.
 
