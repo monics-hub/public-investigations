@@ -4,7 +4,7 @@ title: PE | Paro y bloqueos por mineros ilegales en Perú - ¿qué opinan los pe
 date: 2025-09-18
 description: DINAMIC,  el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes...
 img: https://static.wixstatic.com/media/38937d_2e44a2a90a9c4c458769eda10256e383~mv2.jpg
-pdf: 38937d_043e2e0900a1443ca0f8d448b6eb64c9.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_043e2e0900a1443ca0f8d448b6eb64c9.pdf
 --- 
 DINAMIC,  el mayor centro de monitoreo e investigación digital en América Latina, presenta los hallazgos de las conversaciones en redes... Nuestros análisis muestran un aumento sostenido en el volumen de menciones sobre los bloqueos y paros vinculados a la minería ilegal, con focos concentrados en regiones amazónicas y vías estratégicas del sur. La conversación se organiza en torno a relatos de impacto local —comunidades afectadas por la contaminación y el cierre de rutas— y narrativas nacionales sobre seguridad y orden público.
 
