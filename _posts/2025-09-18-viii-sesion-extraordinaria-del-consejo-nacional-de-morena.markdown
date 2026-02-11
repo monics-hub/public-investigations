@@ -4,7 +4,7 @@ title: MX | VIII Sesión Extraordinaria del Consejo Nacional de Morena
 date: 2025-09-18
 description: 
 img: https://static.wixstatic.com/media/38937d_1346197eccf94c0387f873da3fa02cd3~mv2.jpg
-pdf: 38937d_ee12eaa1a12a49d6b2f9aca217a9546f.pdf
+pdf: https://download-files.wixmp.com/ugd/38937d_ee12eaa1a12a49d6b2f9aca217a9546f.pdf
 --- 
 El encuentro partidario convocado por el Consejo Nacional generó un calendario intenso de decisiones internas: desde la discusión de candidaturas y comisiones hasta la revisión de sanciones y acuerdos de coordinación territorial. Las tensiones internas por cuotas y representaciones se combinaron con la necesidad de proyectar unidad frente a la opinión pública, por lo que muchos de los acuerdos buscaron equilibrar legitimidad interna y visibilidad externa. También hubo espacio para propuestas programáticas y posicionamientos frente a temas nacionales que siguen dominando el debate público.
 
