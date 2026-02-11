@@ -1,1 +1,1 @@
-Sitemap: /flexible-jekyll/sitemap.xml
+Sitemap: https://public-investigations-dr1lzf788-laplacenolie-3941s-projects.vercel.app//sitemap.xml
